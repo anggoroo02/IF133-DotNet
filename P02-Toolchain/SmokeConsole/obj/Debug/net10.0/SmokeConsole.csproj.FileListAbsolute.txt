@@ -1,0 +1,14 @@
+G:\Kuliah\IF133-DotNet\P02-Toolchain\SmokeConsole\bin\Debug\net10.0\SmokeConsole.exe
+G:\Kuliah\IF133-DotNet\P02-Toolchain\SmokeConsole\bin\Debug\net10.0\SmokeConsole.deps.json
+G:\Kuliah\IF133-DotNet\P02-Toolchain\SmokeConsole\bin\Debug\net10.0\SmokeConsole.runtimeconfig.json
+G:\Kuliah\IF133-DotNet\P02-Toolchain\SmokeConsole\bin\Debug\net10.0\SmokeConsole.dll
+G:\Kuliah\IF133-DotNet\P02-Toolchain\SmokeConsole\bin\Debug\net10.0\SmokeConsole.pdb
+G:\Kuliah\IF133-DotNet\P02-Toolchain\SmokeConsole\obj\Debug\net10.0\SmokeConsole.GeneratedMSBuildEditorConfig.editorconfig
+G:\Kuliah\IF133-DotNet\P02-Toolchain\SmokeConsole\obj\Debug\net10.0\SmokeConsole.AssemblyInfoInputs.cache
+G:\Kuliah\IF133-DotNet\P02-Toolchain\SmokeConsole\obj\Debug\net10.0\SmokeConsole.AssemblyInfo.cs
+G:\Kuliah\IF133-DotNet\P02-Toolchain\SmokeConsole\obj\Debug\net10.0\SmokeConsole.csproj.CoreCompileInputs.cache
+G:\Kuliah\IF133-DotNet\P02-Toolchain\SmokeConsole\obj\Debug\net10.0\SmokeConsole.dll
+G:\Kuliah\IF133-DotNet\P02-Toolchain\SmokeConsole\obj\Debug\net10.0\refint\SmokeConsole.dll
+G:\Kuliah\IF133-DotNet\P02-Toolchain\SmokeConsole\obj\Debug\net10.0\SmokeConsole.pdb
+G:\Kuliah\IF133-DotNet\P02-Toolchain\SmokeConsole\obj\Debug\net10.0\SmokeConsole.genruntimeconfig.cache
+G:\Kuliah\IF133-DotNet\P02-Toolchain\SmokeConsole\obj\Debug\net10.0\ref\SmokeConsole.dll

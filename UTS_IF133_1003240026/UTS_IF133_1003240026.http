@@ -1,0 +1,6 @@
+@UTS_IF133_1003240026_HostAddress = http://localhost:5075
+
+GET {{UTS_IF133_1003240026_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

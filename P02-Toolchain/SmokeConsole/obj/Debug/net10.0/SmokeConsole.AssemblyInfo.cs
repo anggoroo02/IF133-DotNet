@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SmokeConsole")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2e47d52324dbcdcaabcc72758b40fb0c691ef738")]
 [assembly: System.Reflection.AssemblyProductAttribute("SmokeConsole")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SmokeConsole")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

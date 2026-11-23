@@ -1,0 +1,22 @@
+# Build results
+bin/
+obj/
+
+# IDE & Editor
+.vs/
+.vscode/
+.idea/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# SQLite temporary/journal files
+*.db-shm
+*.db-wal
+*.db-journal
+
+# Logs & OS files
+*.log
+.DS_Store
+Thumbs.db
